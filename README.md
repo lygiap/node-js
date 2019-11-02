@@ -1,11 +1,11 @@
 # Primeiros passos com Node.js
 
-Este projeto se trata de um aprofundamento de estudos que se originaram do meu
+Este projeto é um aprofundamento de estudos que se originaram do meu
 repositório [conexao-js](https://github.com/lygialima/conexao-js), que foi um
 dos meus pontos de partida nos estudos em JavaScript.
 
 Todo o descritivo abaixo sobre Node, incluindo a demo deste repositório, foram
-extraídos das vídeo-aulas do Umbler Academy em https://academy.umbler.com/primeiros-passos-com-node.js.
+extraídos das vídeoaulas do Umbler Academy em https://academy.umbler.com/primeiros-passos-com-node.js.
 
 Bem-vindo(a) a este repositório!
 
